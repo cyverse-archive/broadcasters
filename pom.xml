@@ -115,7 +115,7 @@
 					<include>**/client/**</include>
 					<include>**/shared/**</include>
 					<!-- only include the GWT Module definition -->
-					<include>**/${gwt.module}.gwt.xml</include>
+					<include>**/*.gwt.xml</include>
 				</includes>
 			</resource>
 		</resources>
