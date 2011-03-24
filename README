@@ -1,6 +1,8 @@
 broadcasters
 ============
 
+This is an adapter interface for facilitating communication between different components in the cyberinfrastructure, specifically to and from various viewer and editor software that is integrated. It is essentially an adapter, providing a single interface to the system to allow it to interact with diverse viewers and editors that have unique interfaces.
+
 This is alpha code. It worked when we ran it, but no guarantees of any kind are made that it will work for anyone else anywhere.
 
 An update to this README is in progress.
@@ -14,5 +16,5 @@ DEPENDENCIES
 
 This code requires:
 
- * item 1
+ * Java
 
