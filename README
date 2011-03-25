@@ -20,7 +20,7 @@ Source code is available at: https://github.com/iPlantCollaborativeOpenSource/br
 
 
 ==INSTALLATION
-To install...
+This code works like a library. Place the code in an appropriate location on your system and call it when needed.
 
 
 ==BUILD INFORMATION
