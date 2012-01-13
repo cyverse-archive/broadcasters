@@ -1,0 +1,48 @@
+broadcasters
+============
+
+==INTRODUCTION
+This is an adapter interface for facilitating communication between different components in the cyberinfrastructure, specifically to and from various viewer and editor software that is integrated. It is essentially an adapter, providing a single interface to the system to allow it to interact with diverse viewers and editors that have unique interfaces.
+
+This is alpha code. It worked when we ran it, but no guarantees of any kind are made that it will work for anyone else anywhere.
+
+More information about iPlant's Open Source policies and current status is available at http://iplantcollaborative.org/about/policies/open-source
+
+An update to this README is in progress.
+
+
+==LICENSE
+See the LICENSE file included with this code.
+
+
+==SOURCE
+Source code is available at: https://github.com/iPlantCollaborativeOpenSource/broadcasters
+
+
+==INSTALLATION
+This code works like a library. Place the code in an appropriate location on your system and call it when needed.
+
+
+==BUILD INFORMATION
+Build info for Apache Maven is in pom.xml.
+http://maven.apache.org/
+
+
+==DEPENDENCIES
+This code requires:
+
+ * Java 1.6.0
+
+
+==USAGE
+Coming...
+
+
+==ISSUES/BUGS/QUESTIONS
+Use the issue tracker available from the GitHub repository at the link listed under SOURCE above. Click Issues to submit a question or report a problem.
+
+
+==CONTRIBUTING
+iPlant requires all outside collaborators (those not employed by iPlant) to sign and submit a Contributor License Agreement. Details as well as answers to Frequently Asked Questions about this agreement are available at http://www.iplantcollaborative.org/opensource/CLA.
+
+Other steps in the process are still being created. While this message remains, email opensource@iplantcollaborative.org
