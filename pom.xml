@@ -4,7 +4,7 @@
 	<groupId>org.iplantc.core</groupId>
 	<artifactId>broadcasters</artifactId>
 	<packaging>jar</packaging>
-	<version>dev-SNAPSHOT</version>
+	<version>1.6-SNAPSHOT</version>
 	<name>The iPlant Collaborative Broadcaster interfaces for Visualization
 		Container Integration</name>
 	<url>http://project.iplantcollaborative.org</url>
