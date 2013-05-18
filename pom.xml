@@ -120,14 +120,9 @@
 	</build>
 	<repositories>
 		<repository>
-			<id>gwt-maven</id>
-			<url>http://gwt-maven.googlecode.com/svn/trunk/mavenrepo/</url>
-		</repository>
-		<repository>
 			<id>iplantCollaborative</id>
 			<name>The iPlant Collaborative local repository</name>
-			<url>http://projects.iplantcollaborative.org/archiva/repository/internal/
-			</url>
+			<url>http://projects.iplantcollaborative.org/archiva/repository/internal/</url>
 		</repository>
 	</repositories>
 </project>
